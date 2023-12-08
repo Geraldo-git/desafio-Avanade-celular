@@ -1,0 +1,15 @@
+D:\ws-sharp\backend\celular\bin\Debug\net6.0\celular.exe
+D:\ws-sharp\backend\celular\bin\Debug\net6.0\celular.deps.json
+D:\ws-sharp\backend\celular\bin\Debug\net6.0\celular.runtimeconfig.json
+D:\ws-sharp\backend\celular\bin\Debug\net6.0\celular.dll
+D:\ws-sharp\backend\celular\bin\Debug\net6.0\celular.pdb
+D:\ws-sharp\backend\celular\obj\Debug\net6.0\celular.csproj.AssemblyReference.cache
+D:\ws-sharp\backend\celular\obj\Debug\net6.0\celular.GeneratedMSBuildEditorConfig.editorconfig
+D:\ws-sharp\backend\celular\obj\Debug\net6.0\celular.AssemblyInfoInputs.cache
+D:\ws-sharp\backend\celular\obj\Debug\net6.0\celular.AssemblyInfo.cs
+D:\ws-sharp\backend\celular\obj\Debug\net6.0\celular.csproj.CoreCompileInputs.cache
+D:\ws-sharp\backend\celular\obj\Debug\net6.0\celular.dll
+D:\ws-sharp\backend\celular\obj\Debug\net6.0\refint\celular.dll
+D:\ws-sharp\backend\celular\obj\Debug\net6.0\celular.pdb
+D:\ws-sharp\backend\celular\obj\Debug\net6.0\celular.genruntimeconfig.cache
+D:\ws-sharp\backend\celular\obj\Debug\net6.0\ref\celular.dll
